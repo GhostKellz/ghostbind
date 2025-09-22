@@ -1,0 +1,16 @@
+{
+  "crate_name": "test_crate",
+  "kind": "staticlib",
+  "artifact": ".ghostbind/cache/x86_64-unknown-linux-gnu/release/test_crate.a",
+  "headers": [
+    ".ghostbind/cache/x86_64-unknown-linux-gnu/headers/test_crate.h"
+  ],
+  "rustc_target": "x86_64-unknown-linux-gnu",
+  "link_libs": [
+    "pthread",
+    "dl",
+    "m",
+    "c"
+  ],
+  "link_search": []
+}
