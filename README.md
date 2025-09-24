@@ -9,6 +9,12 @@
   [![Rust 2024](https://img.shields.io/badge/Rust-2024%20Edition-orange.svg)](https://blog.rust-lang.org/2024/01/01/Rust-2024.html)
 </div>
 
+## DISCLAIMER
+
+⚠️ **EXPERIMENTAL LIBRARY - FOR LAB/PERSONAL USE** ⚠️
+
+This is an experimental library under active development. It is intended for research, learning, and personal projects. The API is subject to change!
+
 ## What is Ghostbind?
 
 Ghostbind bridges the gap between Zig and Rust, making it seamless to use Rust crates in Zig projects. It handles:
